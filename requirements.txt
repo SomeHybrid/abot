@@ -1,0 +1,15 @@
+aioredis
+cleo
+click
+hiredis
+pptree
+pydantic
+python-ulid
+redis
+six
+types-redis
+types-six
+typing-extensions
+py-cord
+aiohttp
+redis-om
